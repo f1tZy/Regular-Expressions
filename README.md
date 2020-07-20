@@ -19,4 +19,3 @@
 git clone https://github.com/f1tZy/Regular-Expressions.git
 ```
 * Запустить файл index.html
-```
